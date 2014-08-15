@@ -12,7 +12,7 @@
   "main": "./lib/swedn",
   "repository": {"type": "git", "url": "https://github.com/shaunxcode/swedn"},
   "dependencies": {
-    "jsedn": "latest"
+    "jsedn": "davelnewton/jsedn"
   },
   "licenses": [{"type": "MIT", "url": "http://www.opensource.org/licenses/mit-license.php"}]
 }
